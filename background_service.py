@@ -4,6 +4,9 @@ import os
 import time
 import plyer
 from plyer import notification
+import platform as p 
+import getpass as gp
+
 
 def load_data(file_path):
     if os.path.exists(file_path):
