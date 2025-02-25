@@ -9,6 +9,8 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | 1.0.1A  | :white_check_mark: |
 
+<!-- Red X = ": x :" (remove the spaces, of course) -->
+<!-- Green Check = ": white_check_mark :" (remove the spaces, of course) -->
 ## Reporting a Vulnerability
 
 To report a vulnerability, go to "Issues," and create an issue named "Vuln. Report." Mark it as "Vulnerability." In the issue, detail the vulnerability so that I can fix it.
