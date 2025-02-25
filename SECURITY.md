@@ -7,7 +7,8 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.1A  | :white_check_mark: |
+| 1.0.1-alpha  | :white_check_mark: |
+| 1.0.1-alpha.2  | :white_check_mark: |
 
 <!-- Red X = ": x :" (remove the spaces, of course) -->
 <!-- Green Check = ": white_check_mark :" (remove the spaces, of course) -->
