@@ -11,14 +11,18 @@ Latest Release Notes: [v1.0.1-alpha.2 Release Notes](https://github.com/Bella288
 ## How To Use
 Note: Filenames shown here are ***not*** a recommendation, but are what they ***need*** to be named for the program to function as intended.
 1. Open your coding program
-2. Create a Python file named **"todo_app.py"** in your **DOCUMENTS** folder.
-3. Copy and paste the contents from **"todo_app.py"** in this repository to your file.
-4. Save the file.
-5. Create a Python file named **"background_service.py"** in your **DOCUMENTS** folder.
-6. Copy and paste the contents from **"background_service.py"** in this repository to your file.
+2. In the terminal, type "pip install plyer playsound runpy tkinter json datetime"
+3. Download the file **"notif.mp3"** from this repository in your **DOCUMENTS** folder.
+<br>
+  - To download, go to the file and click **"Download Raw"**
+5. Create a Python file named **"todo_app.py"** in your **DOCUMENTS** folder.
+6. Copy and paste the contents from **"todo_app.py"** in this repository to your file.
 7. Save the file.
-8. Create a JSON file named **"reminders_app_data.json"** in your **DOCUMENTS** folder.
-9. In the file, write []
+8. Create a Python file named **"background_service.py"** in your **DOCUMENTS** folder.
+9. Copy and paste the contents from **"background_service.py"** in this repository to your file.
 10. Save the file.
-11. To run, first run "todo_app.py". Then, open another Terminal instance and run "background_service.py".
+11. Create a JSON file named **"reminders_app_data.json"** in your **DOCUMENTS** folder.
+12. In the file, write [ ]
+13. Save the file.
+14. To run, first run "todo_app.py". Then, open another Terminal instance and run "background_service.py".
 
