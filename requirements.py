@@ -3,5 +3,6 @@ datetime
 os
 time
 plyer
-tkinter
-playsound
+platform
+getpass
+playsound=1.2.2
