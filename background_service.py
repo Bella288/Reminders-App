@@ -6,8 +6,10 @@ import plyer
 from plyer import notification
 import platform as p 
 import getpass as gp
+import playsound as ps
 
 
+sound_path = os.path.join(os.path.expanduser("~"), "Documents", "notif.mp3")
 def load_data(file_path):
     if os.path.exists(file_path):
         with open(file_path, "r") as f:
@@ -23,6 +25,7 @@ def remind(file_path):
     reminders = load_data(file_path)
     for r in reminders:
         if r["scheduled"] and r["datetime"] == now:
+            ps.playsound(sound_path)
             notification.notify(
                 title=r["title"],
                 message=f"""Description: {r["description"]}\nSchedule: {r["datetime"]}\n""",
