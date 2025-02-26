@@ -9,7 +9,11 @@ import getpass as gp
 import playsound as ps
 
 
+
+
+
 sound_path = os.path.join(os.path.expanduser("~"), "Documents", "notif.mp3")
+
 def load_data(file_path):
     if os.path.exists(file_path):
         with open(file_path, "r") as f:
