@@ -1,7 +1,7 @@
 # Reminders-App
 A simple Reminders App using Python
 <br>
-Latest Release Notes: [v1.0.1-alpha.2 Release Notes](https://github.com/Bella288/Reminders-App/wiki/1.0.1%E2%80%90alpha.2-%E2%80%90-Release-Notes)
+Latest Release Notes: [v1.0.2-alpha.1 Release Notes](https://github.com/Bella288/Reminders-App/wiki/v1.0.2%E2%80%90alpha.1-%E2%80%90-Release-Notes)
 ## Including
 * Background Service - To serve notifications to the user even if the app is closed, as long as background_service.py is running.
 * Tkinter-based Main App - For an easy-to-use user interface.
