@@ -7,7 +7,7 @@ Latest Release Notes: [v1.0.1-alpha.2 Release Notes](https://github.com/Bella288
 * Tkinter-based Main App - For an easy-to-use user interface.
 * JSON File - For saving user reminders easily.
 ## Notes
-* This app is designed for Windows. If you want to use it on a Mac, you will need to modify the files for use on Mac.
+* This app is designed for Mac and Windows.
 ## How To Use
 Note: Filenames shown here are ***not*** a recommendation, but are what they ***need*** to be named for the program to function as intended.
 1. Open your coding program
