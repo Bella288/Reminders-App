@@ -10,6 +10,7 @@ import plyer
 from plyer import notification
 import time as t
 import runpy as rp
+
 user = os.getlogin()
 
 # Set up logging
@@ -54,6 +55,7 @@ class ReminderApp:
         self.theme = "light"
         self.undo_stack = []
         self.redo_stack = []
+
         self.create_ui()
 
     def load_data(self):
