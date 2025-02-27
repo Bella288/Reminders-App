@@ -9,7 +9,7 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | 1.0.1-alpha  | :x:|
 | 1.0.1-alpha.2  | :x: |
-| 1.0.2-alpha.1  | :white_check_mark: |
+| 1.0.2-alpha.1  | :x: (Issues in 1.0.2-alpha.1 were patched in 1.0.2, 1.0.2-alpha.1 deprecated)|
 | 1.0.2  | :white_check_mark: |
 
 <!-- Red X = ": x :" (remove the spaces, of course) -->
