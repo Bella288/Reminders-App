@@ -2,8 +2,8 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+<!--Use this section to tell people about which versions of your project are
+currently being supported with security updates.-->
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -16,4 +16,4 @@ currently being supported with security updates.
 <!-- Green Check = ": white_check_mark :" (remove the spaces, of course) -->
 ## Reporting a Vulnerability
 
-To report a vulnerability, go to "Issues," and create an issue named "Vuln. Report." Mark it as "Vulnerability." In the issue, detail the vulnerability so that I can fix it.
+To report a vulnerability, go to "Issues," click "Add an Issue," and select "Report a security issue."
