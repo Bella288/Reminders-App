@@ -6,7 +6,7 @@ Latest Release Notes: [v1.0.2 Release Notes](https://github.com/Bella288/Reminde
 * Background Service - To serve notifications to the user even if the app is closed, as long as background_service.py is running.
 * Tkinter-based Main App - For an easy-to-use user interface.
 * JSON File - For saving user reminders easily.
-* Audio File - Four Use as Notification Sound
+* Audio File - For Use as Notification Sound
 ## Notes
 * This app is designed for Mac and Windows.
 ## How To Use
