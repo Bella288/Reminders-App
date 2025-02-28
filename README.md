@@ -9,6 +9,7 @@ Latest Release Notes: [v1.0.2 Release Notes](https://github.com/Bella288/Reminde
 * Audio File - For Use as Notification Sound
 ## Notes
 * This app is compatible with Windows, Mac, and Linux.
+* The contents of this repository are protected under copyright. See LICENSE for more details.
 ## How To Use
 Note: Filenames shown here are ***not*** a recommendation, but are what they ***need*** to be named for the program to function as intended.
 1. Open your coding program
