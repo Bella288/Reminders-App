@@ -8,7 +8,7 @@ Latest Release Notes: [v1.0.2 Release Notes](https://github.com/Bella288/Reminde
 * JSON File - For saving user reminders easily.
 * Audio File - For Use as Notification Sound
 ## Notes
-* This app is designed for Mac and Windows.
+* This app is compatible with Windows, Mac, and Linux.
 ## How To Use
 Note: Filenames shown here are ***not*** a recommendation, but are what they ***need*** to be named for the program to function as intended.
 1. Open your coding program
